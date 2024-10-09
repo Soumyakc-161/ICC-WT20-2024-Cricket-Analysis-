@@ -1,5 +1,8 @@
 # 🏏 ICC WT20 2024 Cricket Analysis Project 📊
 
+![t20-wc-2024-sportstiger-1669197376140](https://github.com/user-attachments/assets/0253b4ac-5ee1-4c27-915a-e7b91c9ee74a)
+
+
 ## 📋 Project Overview
 
 This project focuses on analyzing the **ICC WT20 2024 cricket dataset** to extract meaningful insights and measure key performance indicators (KPIs) for teams and players. By using advanced data analysis techniques, we aim to build a dynamic, interactive dashboard that visualizes crucial aspects of the cricket matches and helps with data-driven decision-making. The tools used for analysis and visualization include **Power BI**, **SQL Server**, **Excel**, and **Tableau**.
@@ -109,9 +112,9 @@ The main objective of this project is to create an **interactive dashboard** tha
 
 Here are some visualizations included in the dashboard:
 
-- **Team Performance Dashboard**: ![Team Performance](https://github.com/user-attachments/assets/team_performance_example.png)
-- **Player Statistics**: ![Player Stats](https://github.com/user-attachments/assets/player_stats_example.png)
-- **Match Outcome Analysis**: ![Match Outcome](https://github.com/user-attachments/assets/match_outcome_analysis.png)
+- **Team Performance Dashboard**:![Dashboard](https://github.com/user-attachments/assets/9bd0652e-2c08-404d-b649-367550f557b8)
+
+
 
 ---
 
